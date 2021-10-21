@@ -6,7 +6,7 @@ dataset to model the crime rate with a linear regression.
 
 # Requirements
 
-This project was done using `Python 3.7.3`. The modules version can be found on
+This project was done using `Python 3.8.12`. The modules version can be found on
 the requirements.txt file. 
 
 
